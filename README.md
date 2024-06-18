@@ -8,7 +8,7 @@ It contains the task of the CODSOFT internship program
 - It prompts for operation choice and numbers, handles invalid inputs.
 - Continues to perform calculations until the user decides to stop.
 
- # PASSWORD GENERATOR
+# PASSWORD GENERATOR
   Features:
 - Here users can set the password length.
 - Allows for varying password complexity.
@@ -16,7 +16,7 @@ It contains the task of the CODSOFT internship program
 - Interactive prompts guide the user through the process.
 - Instantly prints out the new password.
 
-  # ROCK-PAPER-SCISSORS GAME
+# ROCK-PAPER-SCISSORS GAME
   Features:
 - Choose between rock, paper, or scissors.
 - Randomly selects rock, paper, or scissors.
@@ -26,8 +26,8 @@ It contains the task of the CODSOFT internship program
 - Allows users to play multiple rounds.
 - Provides clear instructions and feedback for a better experience.
 
-  # CONTACT BOOK
-  Features:
+# CONTACT BOOK
+   Features:
 -  Saves name, phone, email, and address for each contact.
 -  Users can input new contact details.
 -  Lists all contacts with names and phone numbers.
